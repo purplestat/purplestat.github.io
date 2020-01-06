@@ -2,4 +2,4 @@
 ================
 
 
-<br> [Candy](candy_code/blogcandy.md) <br>
+<br> [Candy](blogcandy.md) <br>
