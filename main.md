@@ -2,4 +2,4 @@
 ================
 
 
-<br> [Candy](purplestat/candy_code/blogcandy.md) <br>
+<br> [Candy](candy_code/blogcandy.md) <br>
