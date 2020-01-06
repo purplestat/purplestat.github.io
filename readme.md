@@ -19,7 +19,7 @@
 
 ## Table of contents
 
-- [Quick start](#quick-start)
+- [Candy](https://github.com/purplestat/candy_code/blob/master/blogcandy.md)
 	If i say so its oaky so
 - [Status](#status)
 - [What's included](#whats-included)
