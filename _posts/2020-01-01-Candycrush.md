@@ -84,12 +84,7 @@ use the information of the previous table and focus in particular on the
 interaction between chocolate and other ingredients.  
 
 
-<br>
-<center>
-![](https://github.com/purplestat/candy_code/blob/master/candy-notebook_files/figure-gfm/unnamed-chunk-19-1.png?raw=true)
-</center>
-<br>
-
+<br> ![](https://github.com/purplestat/candy_code/blob/master/candy-notebook_files/figure-gfm/unnamed-chunk-19-1.png?raw=true) <br>
 
 
 The interaction between chocolate \* nut and chocolate \* caramel
