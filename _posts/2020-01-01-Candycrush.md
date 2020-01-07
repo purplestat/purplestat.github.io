@@ -22,8 +22,11 @@ plots in the figure below show the popularity distribution across those
 components. The median popularity is captured by the red dot while the
 dashed line provides the average popularity across all products.
 
-<br> <center>![](https://github.com/purplestat/candy_code/blob/master/candy-notebook_files/figure-gfm/unnamed-chunk-8-1.png?raw=true) </center> <br>
-
+<center>
+<br> 
+  ![](https://github.com/purplestat/candy_code/blob/master/candy-notebook_files/figure-gfm/unnamed-chunk-8-1.png?raw=true)  
+<br>
+</center>
 
 Especially candy that contains a chocolate, nut or crunch component
 appears the be very popular. However, this isolated perspective is not
