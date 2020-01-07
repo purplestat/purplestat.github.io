@@ -90,7 +90,7 @@ interaction between chocolate and other ingredients.
 </center>
 <br>
 
-</p>
+
 
 The interaction between chocolate \* nut and chocolate \* caramel
 appears to be an important determinant for the popularity of chocolate
