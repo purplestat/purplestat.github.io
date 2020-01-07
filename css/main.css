@@ -28,6 +28,14 @@ ul.posts li { list-style: none; }
 .cv address, .cv p { font-size: 1.2em; }
 .cv .download { float: right; font-size: .8em; text-transform: uppercase; }
 
+
+#list2
+{
+ text-indent:50px;
+ color: purple;
+font-size: 1em;
+}
+
 /* To center image*/
 img[src$="centerme"] {
   display:block;
