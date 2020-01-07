@@ -1,4 +1,3 @@
-[[back]](https://github.com/purplestat/page/blob/master/readme.md)
 
 What makes candy popular?
 ================
@@ -97,4 +96,4 @@ combinations of choice would be Chocolate-Caramel-Crunch or
 Chocolate-Nut. This is also in line with the ranking of the previous
 table.
 
-[[back]](https://github.com/purplestat/page/blob/master/readme.md?raw=true)
+[<a href="/blog">back</a>]
