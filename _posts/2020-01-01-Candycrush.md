@@ -35,7 +35,7 @@ components are non-exclusive. The subsequent figure shows the
 correlation between the characteristica and therefore the tendency that
 some components are rather often combined.
 
-![](https://github.com/purplestat/candy_code/blob/master/candy-notebook_files/figure-gfm/unnamed-chunk-5-1.png?raw=true)
+![](https://github.com/purplestat/candy_code/blob/master/candy-notebook_files/figure-gfm/unnamed-chunk-5-1.png?raw=true?style=centerme)
 
 While the combination between chocolate and fruit is rather unusual the
 combination between chocolate and nut occurs more often. The partial
@@ -43,7 +43,7 @@ impact of the components is investigated by means of an ordinarly least
 squares estimation. The following graph shows the point estimates and
 the corresponding 95% confidence intervals.
 
-<br> ![](https://github.com/purplestat/candy_code/blob/master/candy-notebook_files/figure-gfm/unnamed-chunk-15-1.png?raw=true) <br>
+<br> ![](https://github.com/purplestat/candy_code/blob/master/candy-notebook_files/figure-gfm/unnamed-chunk-15-1.png?raw=true?style=centerme) <br>
 
 Chocolate appears to be the strongest driver of popularity, while fruit,
 crunch and nut seem to have a moderatly positive effect as well. As
@@ -56,7 +56,7 @@ is a total of 2^6=64 possible combinations. In our sample on 16 of those
 different combinations actually exist. The following list shows the
 grouped pairings ranked by their average popularity.
 
-<br> ![](https://github.com/purplestat/candy_code/blob/master/candy-notebook_files/figure-gfm/unnamed-chunk-12-1.png?raw=true) <br>
+<br> ![](https://github.com/purplestat/candy_code/blob/master/candy-notebook_files/figure-gfm/unnamed-chunk-12-1.png?raw=true?style=centerme) <br>
 
 The list provides a few valuable insights: (**1**) All successful candy
 contains a chocolate component; (**2**) The majority of candy contains
@@ -68,11 +68,11 @@ products have only an average rating. The following graph contrasts
 popularity and the number of taste components. People tend to value more
 complex taste combinations.
 
-<br> ![](https://github.com/purplestat/candy_code/blob/master/candy-notebook_files/figure-gfm/unnamed-chunk-10-1.png?raw=true) <br>
+<br> ![](https://github.com/purplestat/candy_code/blob/master/candy-notebook_files/figure-gfm/unnamed-chunk-10-1.png?raw=true?style=centerme) <br>
 
 Moreover, the amount of sugar also seems to be a driving factor.
 
-<br> ![](https://github.com/purplestat/candy_code/blob/master/candy-notebook_files/figure-gfm/unnamed-chunk-9-1.png?raw=true) <br>
+<br> ![](https://github.com/purplestat/candy_code/blob/master/candy-notebook_files/figure-gfm/unnamed-chunk-9-1.png?raw=true?style=centerme) <br>
 
 Since the number of possible interactions is pretty large and the number
 of different products and the respective combination of components is
@@ -86,7 +86,7 @@ use the information of the previous table and focus in particular on the
 interaction between chocolate and other ingredients.  
 
 
-<br> ![](https://github.com/purplestat/candy_code/blob/master/candy-notebook_files/figure-gfm/unnamed-chunk-19-1.png?raw=true) <br>
+<br> ![](https://github.com/purplestat/candy_code/blob/master/candy-notebook_files/figure-gfm/unnamed-chunk-19-1.png?raw=true?style=centerme) <br>
 
 
 The interaction between chocolate \* nut and chocolate \* caramel
