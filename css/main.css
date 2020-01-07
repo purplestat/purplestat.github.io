@@ -1,6 +1,6 @@
 body { margin: 60px auto; width: 70%; }
 
-a { text-decoration: none; color: #999; }
+a { text-decoration: none; color: purple; }
 a:hover { text-decoration: underline; }
 
 p, ul { font-size: 1.5em; line-height: 1.4em; color: #333; }
@@ -32,7 +32,7 @@ ul.posts li { list-style: none; }
 #list2
 {
  text-indent:50px;
- color: purple;
+ color: #999;
 font-size: .8em;
  margin:0px;
 }
