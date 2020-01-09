@@ -18,8 +18,7 @@ age
 <br>
 
 
-<object type="text/html" data="https://github.com/purplestat/chicagocrime_code/blob/master/m.html?raw=true">
-</object>
+
 
 
 [<a href="/blog">back</a>]
