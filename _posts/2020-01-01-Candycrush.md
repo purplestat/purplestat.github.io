@@ -1,5 +1,7 @@
 
-What makes candy popular?
+
+layout: post
+title: "What makes candy popular?"
 ================
 
 I really enjoyed reading the “Ultimate Halloween Candy Power Ranking” by
