@@ -1,8 +1,8 @@
 
-
+---
 layout: post
 title: "What makes candy popular?"
-================
+---
 
 I really enjoyed reading the “Ultimate Halloween Candy Power Ranking” by
 [FiveThirtyEight](https://fivethirtyeight.com/features/the-ultimate-halloween-candy-power-ranking/).
