@@ -8,7 +8,7 @@ title: Data analysis projects
   {% for post in site.posts %}
 <!--<li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>-->
     <li><span>Analysis</span> &raquo; <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-  <li id="list2">{{ {post.summary} }}</li>
+  <li id="list2">{{ post.summary }}</li>
   {% endfor %}
     
 </ul>
