@@ -1,6 +1,7 @@
-
-The online ecosystem of love
-================
+---
+layout: post
+title: "The online ecosystem of love"
+---
 
 age
   <br> ![](https://github.com/purplestat/lovescrape_code/blob/master/lovescout-codebook_files/figure-gfm/unnamed-chunk-12-1.png?raw=true?style=centerme)  
