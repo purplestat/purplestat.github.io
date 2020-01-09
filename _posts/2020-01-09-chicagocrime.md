@@ -16,4 +16,10 @@ age
 <br>
   <br> ![](https://github.com/purplestat/chicagocrime_code/blob/master/chicagocrime-notebook_files/figure-gfm/unnamed-chunk-13-3.png?raw=true?style=centerme)  
 <br>
+
+
+<object type="text/html" data="https://github.com/purplestat/chicagocrime_code/blob/master/m.html?raw=true">
+</object>
+
+
 [<a href="/blog">back</a>]
