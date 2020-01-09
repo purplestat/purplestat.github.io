@@ -7,7 +7,7 @@ summary: "{An analysis of candy components and their popularity}"
 I really enjoyed reading the “Ultimate Halloween Candy Power Ranking” by
 [FiveThirtyEight](https://fivethirtyeight.com/features/the-ultimate-halloween-candy-power-ranking/).
 They made use of an online survey in which people had to choose their
-preferred candy based on two randomly offered options (out of 85
+preferred candy out of two randomly offered options (with a pool of 85
 possible products). Based on a decently sized sample FiveThirtyEight
 tried to infer the ingredients that led to the popularity. Even though
 their investigation provides nice insights, I had the impression that
