@@ -1,5 +1,7 @@
-Robberies under the veil of darkness
-================
+---
+layout: post
+title: "Robberies under the veil of darkness"
+---
 
   <br> ![](https://github.com/purplestat/chicagocrime_code/blob/master/chicagocrime-notebook_files/figure-gfm/unnamed-chunk-10-3.png?raw=true?style=centerme)  
 <br>
