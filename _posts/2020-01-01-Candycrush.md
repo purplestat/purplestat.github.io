@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What makes candy popular?"
-summary: "testet tetstet testet"
+summary: "An analysis of candy components and their popularity"
 ---
 
 I really enjoyed reading the “Ultimate Halloween Candy Power Ranking” by
