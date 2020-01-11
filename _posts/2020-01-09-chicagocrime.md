@@ -26,7 +26,7 @@ summary: "{I investigate how darkness affects the crime rates in chicago}"
   <br> ![](https://github.com/purplestat/chicagocrime_code/blob/master/chicagocrime-notebook_files/figure-gfm/unnamed-chunk-13-3.png?raw=true?style=centerme)  
 <br>
 
-
+<iframe src="https://rstudio-pubs-static.s3.amazonaws.com/565190_8b61e5f9b3d84cce817f554d623df250.html" style="border: none; width: 900px; height: 600px" scrolling="no"></iframe>
 
 
 
