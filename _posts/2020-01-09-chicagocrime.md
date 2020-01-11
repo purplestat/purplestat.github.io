@@ -27,7 +27,7 @@ summary: "{I investigate how darkness affects the crime rates in chicago}"
 <br>
 test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test 
 <center>
-<iframe src="https://rstudio-pubs-static.s3.amazonaws.com/565190_8b61e5f9b3d84cce817f554d623df250.html" style="border: none" scrolling="no"></iframe>
+<iframe src="https://rstudio-pubs-static.s3.amazonaws.com/565190_8b61e5f9b3d84cce817f554d623df250.html" style="border: none; width: 900px; height: 400px" scrolling="no"></iframe>
 </center>
 test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test 
 
