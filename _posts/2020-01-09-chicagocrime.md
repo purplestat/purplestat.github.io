@@ -9,17 +9,17 @@ Despite this element, there are good reasons to believe that crime rates might c
 since the criminal does not want to experience any interference of outsiders. On the other hand, the veil of darkness might help to approach a victim but also to vanish after the crime is done. 
 
 The following two figures provide an overview of the location and historical development of robberies.
-Robberies declined over time. While the frequency of monthly robbery was around 1500 at the start of the century it decreased about 50 percent to about 750 at the end of 2019.
+While Austin pretty noticable in it's number of robberies. Important to note that it's also one of the bigger areas that is densly populated.
 <center>
 <iframe src="https://rstudio-pubs-static.s3.amazonaws.com/565190_a675b3a64eed4b558a71d91683244ac9.html" style="border: none; width: 900px; height: 600px" scrolling="no"></iframe>
 </center>
+In gerneal, robberies seem to steadly declined over the last years. While the frequency of monthly robberies was around 1500 at the start of the century it decreased by roughly 50 percent to about 750 at the end of 2019. If you are particularily interested in this aspect you might want to have a look at a [report about the Chicago Police Department](https://abc7chicago.com/robberies-down-19-percent-citywide-in-2018-chicago-police-say/4974400/)
+ and their strategic approach.
+
+However, I don't want to put too much emphasis on the general trends but rather focus on the cyclicality of robberies over the day. 
 
   <br> ![](https://github.com/purplestat/chicagocrime_code/blob/master/chicagocrime-notebook_files/figure-gfm/unnamed-chunk-10-3.png?raw=true?style=centerme)  
 <br>
-Why reduced:
-https://abc7chicago.com/robberies-down-19-percent-citywide-in-2018-chicago-police-say/4974400/
-
-
 
 
   <br> ![](https://github.com/purplestat/chicagocrime_code/blob/master/chicagocrime-notebook_files/figure-gfm/unnamed-chunk-10-7.png?raw=true?style=centerme)  
