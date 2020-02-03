@@ -2,6 +2,7 @@
 layout: post
 title: "City migration of Basel"
 summary: "{I look at migration flows into Basel's quarters and investigate the correlation with webscraped rental prices.}"
+keywords: "[visualisation, webscapring]"
 ---
  Great data that allows to investigate the in- and outflows of Basel's quarters. Try to combine with webscarping project to merge data with rental prices of one of the main real estate websites. 
  
