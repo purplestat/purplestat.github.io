@@ -31,8 +31,14 @@ A heatmap that depicts the frequency of robberies by time of the day and week of
 
   <br> ![](https://github.com/purplestat/chicagocrime_code/blob/master/chicagocrime-notebook_files/figure-gfm/unnamed-chunk-10-1.png?raw=true?style=centerme)  
 <br>
+
+Normalizing the time of the crime as time until/after sunset shows this relationship even more explicitly. Right, after the sunset - during dawn - robberies steadily increase and seem to stabilize one hour thereafter at a noticably higher level.
+
   <br> ![](https://github.com/purplestat/chicagocrime_code/blob/master/chicagocrime-notebook_files/figure-gfm/unnamed-chunk-10-4.png?raw=true?style=centerme)  
 <br>
+
+Going one step further and looking into the variation of this correlation over weekdays shows that robberies shift more towards the hours after midnight. Since on the weekend more, possibly drunk people are on the streets at night they provide targets for robberies. 
+
   <br> ![](https://github.com/purplestat/chicagocrime_code/blob/master/chicagocrime-notebook_files/figure-gfm/unnamed-chunk-10-2.png?raw=true?style=centerme)  
 <br>
 
