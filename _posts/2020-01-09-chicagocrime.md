@@ -21,9 +21,13 @@ If you are particularily interested in this aspect you might want to have a look
  
 <br> ![](https://github.com/purplestat/chicagocrime_code/blob/master/chicagocrime-notebook_files/figure-gfm/unnamed-chunk-10-7.png?raw=true?style=centerme)  
 <br>
+
+The variation over time does no suffice to make any claim about the impact of darkness on robberies since the variation of crimes over the course of the day might be driven by various determinants. Especially working hours, leisure time and the associated movement of citizens outisde of their home can affect the prevalence of a crime. Fortunately, the sun provides a naturaly source of variation in length of day over the year. The following figure shows the changes in time of sunrise and -set throughtout a year.
+
   <br> ![](https://github.com/purplestat/chicagocrime_code/blob/master/chicagocrime-notebook_files/figure-gfm/unnamed-chunk-10-5.png?raw=true?style=centerme)  
 <br>
 
+A heatmap that depicts the frequency of robberies by time of the day and week of the year shows shifts that align with the previous graph: While the majority of robberies in winter happen in the hours approaching 8pm the corresponding time increases towards the sommer months and declines afterwards again. 
 
   <br> ![](https://github.com/purplestat/chicagocrime_code/blob/master/chicagocrime-notebook_files/figure-gfm/unnamed-chunk-10-1.png?raw=true?style=centerme)  
 <br>
