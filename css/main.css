@@ -37,6 +37,11 @@ font-size: .8em;
  margin:0px;
 }
 
+#mytext
+{
+  font-size: 80%;
+}
+
 /* To center image*/
 img[src$="centerme"] {
   display:block;
