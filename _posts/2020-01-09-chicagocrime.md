@@ -8,12 +8,20 @@ the truth or should rather be seen as a dramaturgic element since darkness is us
 Despite this element, there are good reasons to believe that crime rates might changing troughout the day: For each robbery there needs to be an accessible victim. If everybody is asleep  On the one hand, 
 since the criminal does not want to experience any interference of outsiders. On the other hand, the veil of darkness might help to approach a victim but also to vanish after the crime is done. 
 
-
+The following two figures provide an overview of the location and historical development of robberies.
 Robberies declined over time. While the frequency of monthly robbery was around 1500 at the start of the century it decreased about 50 percent to about 750 at the end of 2019.
-
+<center>
+<iframe src="https://rstudio-pubs-static.s3.amazonaws.com/565190_a675b3a64eed4b558a71d91683244ac9.html" style="border: none; width: 900px; height: 600px" scrolling="no"></iframe>
+</center>
 
   <br> ![](https://github.com/purplestat/chicagocrime_code/blob/master/chicagocrime-notebook_files/figure-gfm/unnamed-chunk-10-3.png?raw=true?style=centerme)  
 <br>
+Why reduced:
+https://abc7chicago.com/robberies-down-19-percent-citywide-in-2018-chicago-police-say/4974400/
+
+
+
+
   <br> ![](https://github.com/purplestat/chicagocrime_code/blob/master/chicagocrime-notebook_files/figure-gfm/unnamed-chunk-10-7.png?raw=true?style=centerme)  
 <br>
   <br> ![](https://github.com/purplestat/chicagocrime_code/blob/master/chicagocrime-notebook_files/figure-gfm/unnamed-chunk-10-5.png?raw=true?style=centerme)  
