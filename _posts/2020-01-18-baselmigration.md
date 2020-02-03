@@ -3,15 +3,14 @@ layout: post
 title: "City migration of Basel"
 summary: "{I look at migration flows into Basel's quarters and investigate the correlation with webscraped rental prices.}"
 ---
-
-  <br> ![](https://github.com/purplestat/baseligration_code/blob/master/baselmigration-codebook_files/figure-gfm/unnamed-chunk-15-1.png?raw=true?style=centerme)  <br>
- 
- 
-   <br> ![](https://github.com/purplestat/baseligration_code/blob/master/baselmigration-codebook_files/figure-gfm/unnamed-chunk-13-1.png?raw=true?style=centerme)  <br>
   
    <br> ![](https://github.com/purplestat/baseligration_code/blob/master/baselmigration-codebook_files/figure-gfm/unnamed-chunk-18-1.png?raw=true?style=centerme)  <br>
+
+   <br> ![](https://github.com/purplestat/baseligration_code/blob/master/baselmigration-codebook_files/figure-gfm/unnamed-chunk-13-1.png?raw=true?style=centerme)  <br>
+
   
-  
+  <br> ![](https://github.com/purplestat/baseligration_code/blob/master/baselmigration-codebook_files/figure-gfm/unnamed-chunk-15-1.png?raw=true?style=centerme)  <br>
+ 
 
 
 <center>
