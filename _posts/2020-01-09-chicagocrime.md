@@ -17,7 +17,7 @@ In gerneal, robberies seem to steadly declined over the last years. While the fr
   <br> ![](https://github.com/purplestat/chicagocrime_code/blob/master/chicagocrime-notebook_files/figure-gfm/unnamed-chunk-10-3.png?raw=true?style=centerme)  
 <br>
 If you are particularily interested in this aspect you might want to have a look at a [report about the Chicago Police Department](https://abc7chicago.com/robberies-down-19-percent-citywide-in-2018-chicago-police-say/4974400/)
- and their strategic approach. However, I don't want to put too much emphasis on the general decline of robberies but rather focus on the cyclicality of robberies over the day. The subsequent graph shows the strong variation in robberies over the day. The frequency of robberies has it's low around 6am in the morning and increases throught the day until the peak around 9pm. The discrepancy is quite pronounced since the number of robberies at 6am are more than three times lower than at 9pm.
+ and their strategic approach. However, I don't want to put too much emphasis on the general decline of robberies but rather focus on the cyclicality of robberies over the day. The subsequent graph shows the strong variation in robberies over the span of 24 hours. The frequency of robberies has it's low around 6am in the morning and increases steadily throught the day until the peak its around 9pm. The discrepancy is quite pronounced since the number of robberies at 6am is more than three times lower than at 9pm.
  
 <br> ![](https://github.com/purplestat/chicagocrime_code/blob/master/chicagocrime-notebook_files/figure-gfm/unnamed-chunk-10-7.png?raw=true?style=centerme)  
 <br>
