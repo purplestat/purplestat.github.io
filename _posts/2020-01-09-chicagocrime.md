@@ -2,6 +2,7 @@
 layout: post
 title: "Robberies under the veil of darkness"
 summary: "{I investigate how darkness affects the crime rates in chicago}"
+keywords: "| visualisation, spatial"
 ---
 In many TV-shows and crime movies, robberies predominantly take place during the late evening hours and happen often in shady and abandoned backalleys. I was wondering whether this hollywood depiction actually reassemlbes 
 the truth or should rather be seen as a dramaturgic element since darkness is usually associated with the evil.
