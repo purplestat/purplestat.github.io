@@ -29,7 +29,7 @@ dashed line provides the average popularity across all products.
 <br>
 <br> ![](candy-notebook_files/figure-gfm/unnamed-chunk-8-1.png) <br>
 ![](../blob/master/candy_code/candy-notebook_files/figure-gfm/unnamed-chunk-8-1.png?raw=true)
-![](candy-notebook_files/figure-gfm/unnamed-chunk-8-1.png?raw=true)
+![](candy_code/candy-notebook_files/figure-gfm/unnamed-chunk-8-1.png?raw=true)
 
 
 Especially candy that contains a chocolate, nut or crunch component
