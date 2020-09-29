@@ -27,7 +27,10 @@ dashed line provides the average popularity across all products.
 
   <br> ![](https://github.com/purplestat/candy_code/blob/master/candy-notebook_files/figure-gfm/unnamed-chunk-8-1.png?raw=true?style=centerme)  
 <br>
-
+<br> ![](candy-notebook_files/figure-gfm/unnamed-chunk-8-1.png) <br>
+![](https://github.com/purplestat/candy_code/blob/master/candy-notebook_files/figure-gfm/unnamed-chunk-8-1.png?raw=true)
+![](../blob/master/candy-notebook_files/figure-gfm/unnamed-chunk-8-1.png?raw=true)
+![](candy-notebook_files/figure-gfm/unnamed-chunk-8-1.png?raw=true)
 
 
 Especially candy that contains a chocolate, nut or crunch component
