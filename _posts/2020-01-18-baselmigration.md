@@ -7,16 +7,16 @@ keywords: "| visualisation, webscapring"
  Great data that allows to investigate the in- and outflows of Basel's quarters. Try to combine with webscarping project to merge data with rental prices of one of the main real estate websites. 
  
  The next graph provides an overview of Basel's yearly migration flows. While the wedge between imigration and emigration was increasing until 2010, it started to decline thereafter and is now fairly balanced.
-      <br> ![](basel/unnamed-chunk-13-1.png?raw=true?style=centerme)  <br>
       <br> ![](https://raw.githubusercontent.com/purplestat/purplestat.github.io/master/_posts/basel/unnamed-chunk-13-1.png?raw=true?style=centerme)  <br>
+      
 Particularly Gundeldingen, Matthäus and St. Johann show fairly large number of in- and outflows.
   
- <br> ![](basel/unnamed-chunk-15-1.png?raw=true?style=centerme)  <br>
+ <br> ![](https://raw.githubusercontent.com/purplestat/purplestat.github.io/master/_posts/basel/unnamed-chunk-15-1.png?raw=true?style=centerme)  <br>
  
  Moreover, the data does not only allow to look the destination of the migration flows, but also to investigate the origin. It's not too surprising that flows from and to Germany are fairly large since 
  However, France which shares a border with Basel as well shows noticably smaller flows. The language barrier might be one determinant for that observation. 
  
-<br> ![](basel/unnamed-chunk-18-1.png?raw=true?style=centerme)  <br>
+<br> ![](https://raw.githubusercontent.com/purplestat/purplestat.github.io/master/_posts/basel/unnamed-chunk-18-1.png?raw=true?style=centerme)  <br>
    
    
 <center>
