@@ -11,12 +11,12 @@ keywords: "| visualisation, webscapring"
 
 Particularly Gundeldingen, Matthäus and St. Johann show fairly large number of in- and outflows.
   
-      <br> ![](basel/unnamed-chunk-15-1.png?raw=true?style=centerme)  <br>
+ <br> ![](basel/unnamed-chunk-15-1.png?raw=true?style=centerme)  <br>
  
  Moreover, the data does not only allow to look the destination of the migration flows, but also to investigate the origin. It's not too surprising that flows from and to Germany are fairly large since 
  However, France which shares a border with Basel as well shows noticably smaller flows. The language barrier might be one determinant for that observation. 
  
-      <br> ![](basel/unnamed-chunk-18-1.png?raw=true?style=centerme)  <br>
+<br> ![](basel/unnamed-chunk-18-1.png?raw=true?style=centerme)  <br>
    
    
 <center>
