@@ -30,7 +30,7 @@ The variation over time does no suffice to make any claim about the impact of da
 
 A heatmap that depicts the frequency of robberies by time of the day and week of the year shows shifts that align with the previous graph: While the majority of robberies in winter happen in the hours approaching 8pm the corresponding time increases towards the sommer months and declines afterwards again. 
 
-  <br> ![](https://github.com/purplestat/chicagocrime_code/blob/master/chicagocrime-notebook_files/figure-gfm/unnamed-chunk-10-1.png?raw=true?style=centerme)  
+  <br> ![](https://github.com/purplestat/purplestat.github.io/blob/master/_posts/chicago/unnamed-chunk-10-1.png?raw=true?style=centerme)  
 <br>
 
 Normalizing the time of the crime as time until/after sunset shows this relationship even more explicitly. Right, after the sunset - during dawn - robberies steadily increase and seem to stabilize one hour thereafter at a noticably higher level.
