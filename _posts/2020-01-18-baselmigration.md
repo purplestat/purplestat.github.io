@@ -18,11 +18,12 @@ Particularly Gundeldingen, Matthäus and St. Johann show fairly large number of 
  
 <br> ![](https://raw.githubusercontent.com/purplestat/purplestat.github.io/master/_posts/basel/unnamed-chunk-18-1.png?raw=true?style=centerme)  <br>
    
-   
+In addition to the mere view on flows I also had a look at average rental prices across the quarters of Basel. I web scraped one of the major players in the online retail market to calculate an average price per square meters and aggregated the results to a street and then quarter level.
 <center>
 <iframe src="https://rstudio-pubs-static.s3.amazonaws.com/566868_64939f1c851546598c41c15da15b01ca.html" style="border: none; width: 900px; height: 600px" scrolling="no"></iframe>
 </center>
 
+The last Figure provides a comparison to the previous graph in terms of a foreigner-to-citizen inflow ratio.
 <center>
 <iframe src="https://rstudio-pubs-static.s3.amazonaws.com/566871_e3b510f7f12844c1a2a4880f6a4c953a.html" style="border: none; width: 900px; height: 600px" scrolling="no"></iframe>
 </center>
