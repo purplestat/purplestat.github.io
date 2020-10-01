@@ -9,7 +9,7 @@ keywords: "| visualisation, webscapring"
  The next graph provides an overview of Basel's yearly migration flows. While the wedge between imigration and emigration was increasing until 2010, it started to decline thereafter and is now fairly balanced.
 
    <br> ![](https://github.com/purplestat/baseligration_code/blob/master/baselmigration-codebook_files/figure-gfm/unnamed-chunk-13-1.png?raw=true?style=centerme)  <br>
-
+   <br> ![](../blob/master/basel/unnamed-chunk-13-1.png?raw=true?style=centerme)  <br>
 Particularly Gundeldingen, Matthäus and St. Johann show fairly large number of in- and outflows.
   
   <br> ![](https://github.com/purplestat/baseligration_code/blob/master/baselmigration-codebook_files/figure-gfm/unnamed-chunk-15-1.png?raw=true?style=centerme)  <br>
