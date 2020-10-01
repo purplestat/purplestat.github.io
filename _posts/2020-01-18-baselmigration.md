@@ -10,7 +10,7 @@ keywords: "| visualisation, webscapring"
 
    <br> ![](https://github.com/purplestat/baseligration_code/blob/master/baselmigration-codebook_files/figure-gfm/unnamed-chunk-13-1.png?raw=true?style=centerme)  <br>
    <br> ![](/blob/master/basel/unnamed-chunk-13-1.png?raw=true?style=centerme)  <br>
-      <br> ![](/basel/unnamed-chunk-13-1.png?raw=true?style=centerme)  <br>
+      <br> ![](basel/unnamed-chunk-13-1.png?raw=true?style=centerme)  <br>
             <br> ![](unnamed-chunk-13-1.png?raw=true?style=centerme)  <br>
 Particularly Gundeldingen, Matthäus and St. Johann show fairly large number of in- and outflows.
   
